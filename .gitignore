@@ -1,4 +1,5 @@
 # Ignore
+amd64/*.iso
 amd64/root
 amd64/dvd
 amd64/bugs
@@ -6,6 +7,7 @@ amd64/deb
 amd64/dvd
 amd64/log
 
+i386/*.iso
 i386/root
 i386/dvd
 i386/dvd
